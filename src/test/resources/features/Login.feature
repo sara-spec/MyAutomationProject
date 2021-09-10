@@ -6,3 +6,9 @@ Feature: Login feature.
     When user enters credentials
     And user clicks login button
     Then user supposed to see welcome message
+
+
+
+
+
+
